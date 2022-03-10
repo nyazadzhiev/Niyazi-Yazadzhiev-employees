@@ -1,6 +1,5 @@
 const file = document.getElementById("file");
 const button = document.getElementById("confirm");
-const body = document.getElementById("body");
 const employees = []; 
 
 function calculateDays(start1, end1, start2, end2) {
